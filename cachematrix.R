@@ -16,7 +16,7 @@
 
 
 
-## Write a short comment describing this function
+
 ##makeCacheMatrix is the function to cache the inverse of the matrix when inverse
 ##is passed from cacheSolve and also sets the input value x 
 makeCacheMatrix <- function(x = matrix()) {
